@@ -2,3 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 theme: juwayritema
 title: Latihan Hugo Bootstrap
+
+module:
+  imports:
+    - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
